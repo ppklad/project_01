@@ -16,7 +16,8 @@ SECRET_KEY = '63gj1x7yq+(huw**sd_woy)7l&b7xw1%%j4l1f^qv5$_ww!@+c'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'ppklad.pythonanywhere.com'
+    'ppklad.pythonanywhere.com',
+    '127.0.0.1:8000'
 ]
 
 
