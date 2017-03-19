@@ -17,7 +17,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'ppklad.pythonanywhere.com',
-    '127.0.0.1:8000'
+    '127.0.0.1',
+    'localhost'
 ]
 
 
