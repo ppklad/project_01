@@ -15,7 +15,9 @@ SECRET_KEY = '63gj1x7yq+(huw**sd_woy)7l&b7xw1%%j4l1f^qv5$_ww!@+c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ppklad.pythonanywhere.com']
+ALLOWED_HOSTS = [
+    'ppklad.pythonanywhere.com'
+]
 
 
 # Application definition
